@@ -1,5 +1,7 @@
 # Semi-supervised Learning using Deep Generative Models and Metric Embedding Auxiliary Task
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rEo_512c24gbU6y0wTlWT3b2XhTHjP4d)
+
 This project is a tensorflow implementation of my ongoing work for semi-supervised learning with deep generative models and metric embedding.
 
 ### Dependencies
